@@ -1,5 +1,7 @@
 # Skolprojekt: Vue CLI och PWA
 
+**Webbadress: https://johaol16.github.io/**
+
 **Krav:**
 
 * Gör minst ett webbanrop, och visa information från en eller flera webbtjänster i webbapplikationen (Undvik CORS-problem och använd HTTPS, för applikationen ska fungera bra som publicerad; Visa åtminstone tio värden)
